@@ -27,6 +27,6 @@
 ---
 
 
-## 📫 How to Reach Me
-- 📧 Email: your-email@example.com
+## 📫 Reach me through
+- 📧 Email: m.kesavaharish@gmail.com
 
